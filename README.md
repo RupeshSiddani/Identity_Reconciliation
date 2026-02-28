@@ -5,10 +5,9 @@ A REST API that identifies and links customer contacts across multiple email/pho
 ## Live Endpoint
 
 ```
-POST https://<your-render-url>/identify
+POST https://identity-reconciliation-qofy.onrender.com/identify
 ```
 
-> **Replace** `<your-render-url>` with your deployed Render.com URL after deployment.
 
 ---
 
